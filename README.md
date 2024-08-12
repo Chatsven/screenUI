@@ -1,9 +1,12 @@
 This is a freely available design draft in the public domain, but it is protected by copyright.
 
 /////////////
+
 What We Support:
 Anyone is free to copy, modify, or use it as a reference for secondary design.
+
 /////////////
+
 What We Do Not Support:
 No one is allowed to sell, distribute, or use it for commercial purposes.
 
@@ -24,7 +27,7 @@ Note: This design draft is freely available and there is no fee for viewing.
 /////////////
 
 For any inquiries, please contact us at:
-Work: mailto:Apple_ZCSWork@163.com
+Work: Apple_ZCSWork@163.com
 
 /////////////
 
@@ -34,7 +37,7 @@ Note: This design draft is freely available and there is no fee for viewing.
 
 The copyright protection applies solely within the territory of China, including but not limited to:
 
-· Mainland China
+· China
 · Hong Kong
 · Macau
 · Taiwan, China
@@ -45,6 +48,6 @@ The copyright protection applies solely within the territory of China, including
 
 Douyin：https://www.douyin.com/user/MS4wLjABAAAA5svVig461YQynizYjTmcok1G6UqYpWAY6HpPgLY7gDmPE-lkDkO8ZKVfVkK26trd
 
-Bilibli:https://space.bilibili.com/558342575
+bilibili:https://space.bilibili.com/558342575
 
 /////////////
